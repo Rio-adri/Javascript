@@ -1,0 +1,2 @@
+mengubah nilai antar tipe data dapat dilakukan secara eksplisit atau secara langsung oleh developer, maupun implisit oleh javascript
+
