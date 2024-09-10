@@ -1,7 +1,0 @@
-Tipe data adalah tipe yang ditentukan berdasarkan data apa yang akan disimpan. jika data yang disimpan adalah angka, maka akan ada tipe nya sendiri.
-
-tipe data yang dipelajari kali ini adalah tipe data primitif atau tipe data dasar. Tipe data primitif diantaranya : 
-1. Number
-2. String
-3. Boolean
-4. nilai kosong (null dan undefined)
